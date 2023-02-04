@@ -1,0 +1,61 @@
+.home{
+   
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 490px;
+    line-height: 27px;
+ color: #000;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 150px;
+        text-decoration: none;
+        color: #000;
+
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 150px;
+    color: #000;
+
+}
+:any-link{
+    text-decoration: none;
+    color: #000;
+}
+    .header{
+        border-bottom: solid 1px black ;
+        }
+        .h1{ 
+            text-align: center;
+            font-family: 'Poppins', sans-serif;         
+            font-size: 40px;
+            line-height: 38px;
+           color: rgba(125, 0, 0, 1);
+        }
+        .infoaboutcompany{
+            margin-left: 200px;
+            font-family: 'Poppins', sans-serif;             
+           font-style: normal;
+            font-size: 25px;
+            line-height: 38px;
+        }
+
+.info{
+    margin-top: 118px;
+    font-family: 'Poppins', sans-serif;  
+  width:775px;
+  color: black;
+  
+ }
+ .adress{
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    line-height: 34px;
+    margin-left: 198px;
+    color: black;
+
+ }
